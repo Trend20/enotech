@@ -1,4 +1,4 @@
-![](img/enotech.png)
+![](ReadmeImage/enotech.png)
 # EnoTech Consultancy website.
 
 **Site URL**: https://enotech-trend20.vercel.app/
